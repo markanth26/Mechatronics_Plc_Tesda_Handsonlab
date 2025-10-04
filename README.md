@@ -1,4 +1,4 @@
-## 1. Mechatronics and Automation Control Systems
+##🤖 Mechatronics and Automation Control Systems
 
 This section documents the hands-on installation, wiring, and programming of control systems, proving proficiency in industrial automation.
 
